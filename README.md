@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kotlin.
 - 💞️ I’m looking to collaborate on no.
 - 📫 How to reach me: Don't
-- 😄 Pronouns: He/him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: No
 
 <!---
