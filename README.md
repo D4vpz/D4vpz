@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @D4vpz.
 - 👀 I’m interested in coding games and game engines.
 - 🌱 I’m currently learning Kotlin.
-- 💞️ I’m looking to collaborate on nothing currently.
+- 💞️ I’m looking to collaborate on no.
 - 📫 How to reach me: Don't
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: No
